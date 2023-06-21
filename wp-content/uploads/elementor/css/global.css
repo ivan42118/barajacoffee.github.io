@@ -1,0 +1,7 @@
+.elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1570px;
+}
+
+.elementor-widget:not(:last-child) {
+    margin-bottom: 0px;
+}
